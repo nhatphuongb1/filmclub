@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "1094614242371",
+    "firebase_url": "https://filmclub-215602.firebaseio.com",
+    "project_id": "filmclub-215602",
+    "storage_bucket": "filmclub-215602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094614242371:android:3d055000354fa298",
+        "android_client_info": {
+          "package_name": "codecomplete.tnp.moviehub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094614242371-cc3gi1230v0n0bg2h24hs0bci2lb9r7o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "codecomplete.tnp.moviehub",
+            "certificate_hash": "b7aea316b62c5726117062fd61471c3e47468295"
+          }
+        },
+        {
+          "client_id": "1094614242371-ajt8a09517i1845hdqjfe2o0j2nqorvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlK9GUEq7ISLE7Jl9bVaWpfTQcNZvZm7E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094614242371-ajt8a09517i1845hdqjfe2o0j2nqorvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094614242371:android:cb57da8942d8f19c",
+        "android_client_info": {
+          "package_name": "com.codecomplete.nhatphuong.filmclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094614242371-i5mtgt8u35of53u6oriojhbvmm5f6n2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codecomplete.nhatphuong.filmclub",
+            "certificate_hash": "b7aea316b62c5726117062fd61471c3e47468295"
+          }
+        },
+        {
+          "client_id": "1094614242371-ajt8a09517i1845hdqjfe2o0j2nqorvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlK9GUEq7ISLE7Jl9bVaWpfTQcNZvZm7E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094614242371-ajt8a09517i1845hdqjfe2o0j2nqorvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094614242371:android:bab747823087326d",
+        "android_client_info": {
+          "package_name": "com.example.nhatp.filmclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094614242371-tle0p9h8h3uttme6lph3aha6i57h5is4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nhatp.filmclub",
+            "certificate_hash": "b7aea316b62c5726117062fd61471c3e47468295"
+          }
+        },
+        {
+          "client_id": "1094614242371-ajt8a09517i1845hdqjfe2o0j2nqorvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlK9GUEq7ISLE7Jl9bVaWpfTQcNZvZm7E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094614242371-ajt8a09517i1845hdqjfe2o0j2nqorvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
